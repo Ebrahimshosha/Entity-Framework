@@ -1,0 +1,12 @@
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\bin\Debug\net6.0\LinkDev.Common.deps.json
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\bin\Debug\net6.0\LinkDev.Common.dll
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\bin\Debug\net6.0\LinkDev.Common.pdb
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.csproj.AssemblyReference.cache
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.AssemblyInfoInputs.cache
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.AssemblyInfo.cs
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.csproj.CoreCompileInputs.cache
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.dll
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\refint\LinkDev.Common.dll
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\LinkDev.Common.pdb
+E:\Route\Back-end\6 Entity FrameWork\Demoes\LinkDev.Common\LinkDev.Common\obj\Debug\net6.0\ref\LinkDev.Common.dll
